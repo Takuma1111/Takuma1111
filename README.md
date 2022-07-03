@@ -59,7 +59,7 @@ C#,Swift,Unity,Xcode
 Unityでスマホアプリを開発した時にiPhoneのフラッシュライトを扱う関数がなかったので   
 開発いたしました。
 
-5.天気アプリ
+5.天気アプリ(非公開)
 【 使用技術 】  
 リポジトリ：[Takuma1111/WeatherApp](https://github.com/Takuma1111/WeatherApp)  
 Swift,MVC,API  
