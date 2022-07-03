@@ -17,7 +17,7 @@ Tableau Desktop Specialist
 1.クリエイターポートフォリオサイト（開発中）  
 【 使用技術 】   
 リポジトリ： [Takuma1111/CreatorPortfolioSite](https://github.com/Takuma1111/CreatorPortfolioSite)   
-React, TypeScript, RubyOnRails(APIモード), nginx, RDS(MySQL), Docker, ECR,ECS(Fargate), Route53, ACM, ALB, Github Action  
+React, TypeScript, RubyOnRails(APIモード), Docker, AWS RDS(MySQL),AWS ECR,AWS ECS(Fargate),Github Action  
 【 概要 】  
 クリエイターが作成した写真・音楽・動画を投稿・閲覧できるサイトを開発しております。    
 昨今クエリターが作成した作品はTwitterなどで投稿されますが、他の投稿で埋もれてしまい 良い作品も見つけづらくなってしまっています。よってクリエイター専用のサイトを作成することで 作品を沢山の人に見てもらうことが出来、知ることができます。 そういったクリエイターが活躍できる場を作りたく、このサイトを現在開発しております。
