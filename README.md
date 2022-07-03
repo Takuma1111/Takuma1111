@@ -65,7 +65,7 @@ Unityでスマホアプリを開発した時にiPhoneのフラッシュライト
 Swift,MVC,API  
 【 概要 】  
 三日間の天気の情報を検索して探せるアプリです。（APIの関係で北海道の市の天気しか検索して出ません...）  
-MVCモデルを意識して開発しました。[過去にRxSwiftを使用してMVVMでアプリ開発を挑戦したこともあります。](https://github.com/Takuma1111/RxGithubSearchApp).  
+MVCモデルを意識して開発しました。過去にRxSwiftを使用してMVVMでアプリ開発を挑戦したこともあります[Takuma1111/RxGithubSearchApp](https://github.com/Takuma1111/RxGithubSearchApp).  
 
 6.[ARシューティングゲーム(非公開)](https://www.takumaportfolios.net/swiftapp/swiftapp_about4)  
 【 使用技術 】  
