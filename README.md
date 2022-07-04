@@ -14,7 +14,7 @@ Tableau Desktop Specialist
 開発中：現在開発中のサービスです。   
 非公開：諸事情により非公開のものです。   
 
-1.クリエイターポートフォリオサイト（開発中）  
+① クリエイターポートフォリオサイト（開発中）  
 【 使用技術 】   
 リポジトリ： [Takuma1111/CreatorPortfolioSite](https://github.com/Takuma1111/CreatorPortfolioSite)   
 React, TypeScript, RubyOnRails(APIモード), Docker, AWS RDS(MySQL),AWS ECR,AWS ECS(Fargate),Github Action  
@@ -23,14 +23,14 @@ React, TypeScript, RubyOnRails(APIモード), Docker, AWS RDS(MySQL),AWS ECR,AWS
 昨今クエリターが作成した作品はTwitterなどで投稿されますが、他の投稿で埋もれてしまい 良い作品も見つけづらくなってしまっています。よってクリエイター専用のサイトを作成することで 作品を沢山の人に見てもらうことが出来、知ることができます。 そういったクリエイターが活躍できる場を作りたく、このサイトを現在開発しております。
 
 ### 🚶2021年の開発物
-1.[ポートフォリオサイト(公開中)](https://www.takumaportfolios.net/)  
+① [ポートフォリオサイト(公開中)](https://www.takumaportfolios.net/)  
 【 使用技術 】   
 RubyRails,Heroku  
 【 開発動機 】   
 私が今まで活動してきたことや開発してきたものをサイトにまとめて発信したいと考え、
 開発しました。
 
-2.[アイドルグループ「開歌」 卒業ライブ特設サイト(公開中)](https://protected-dusk-61475.herokuapp.com/)  
+② [アイドルグループ「開歌」 卒業ライブ特設サイト(公開中)](https://protected-dusk-61475.herokuapp.com/)  
 【 使用技術 】   
 RubyOnRails,SCSS,Github(共同開発),Heroku,AWS(S3,CloudFront)    
 【 概要 】   
@@ -42,7 +42,7 @@ RubyOnRails,SCSS,Github(共同開発),Heroku,AWS(S3,CloudFront)
 現在はイベントが終了し、サイト訪問者が少なくなっため、Herokuの性能を落としコストのかからないサイトにしています。      
 （サイト読み込み時の遅延、動画部分の読み込み遅延等、ご了承ください。）
 
-3.[光る絵本展in三陸鉄道(公開中)](https://apps.apple.com/us/app/%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%ABar-%E5%85%89%E3%82%8B%E7%B5%B5%E6%9C%AC%E5%B1%95-cicada/id1584807788)   
+③ [光る絵本展in三陸鉄道(公開中)](https://apps.apple.com/us/app/%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%ABar-%E5%85%89%E3%82%8B%E7%B5%B5%E6%9C%AC%E5%B1%95-cicada/id1584807788)   
 【 使用技術 】   
 Unity,C#    
 【 概要 】   
@@ -51,7 +51,7 @@ Unity,C#
 【 背景 】    
 今回のイベントにて来客したお客様を楽しめるようなものはないかと言う相談が来たので    イベントの展示物であるチックタックという絵本に出てくる時計台をARに出して子供から大人まで視覚的に  楽しめるようにARアプリの提案と開発を実施しました。(iOSのみ対応)
 
-4.Unityプラグイン開発(公開中)   
+④ Unityプラグイン開発(公開中)   
 【 使用技術 】   
 リポジトリ：[Takuma1111/Unity-iOS-LightPlugins](https://github.com/Takuma1111/Unity-iOS-LightPlugins)  
 C#,Swift,Unity,Xcode  
@@ -59,7 +59,7 @@ C#,Swift,Unity,Xcode
 Unityでスマホアプリを開発した時にiPhoneのフラッシュライトを扱う関数がなかったので   
 開発いたしました。
 
-5.天気アプリ(非公開)  
+⑤ 天気アプリ(非公開)  
 【 使用技術 】  
 リポジトリ：[Takuma1111/WeatherApp](https://github.com/Takuma1111/WeatherApp)  
 Swift,MVC,API  
@@ -67,7 +67,7 @@ Swift,MVC,API
 三日間の天気の情報を検索して探せるアプリです。（APIの関係で北海道の市の天気しか検索して出ません...）  
 MVCモデルを意識して開発しました。過去にRxSwiftを使用してMVVMでアプリ開発を挑戦したこともあります[Takuma1111/RxGithubSearchApp](https://github.com/Takuma1111/RxGithubSearchApp).  
 
-6.[ARシューティングゲーム(非公開)](https://www.takumaportfolios.net/swiftapp/swiftapp_about4)  
+⑥ [ARシューティングゲーム(非公開)](https://www.takumaportfolios.net/swiftapp/swiftapp_about4)  
 【 使用技術 】  
 Unity, C#  
 【 概要 】  
