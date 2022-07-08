@@ -25,7 +25,7 @@ React, TypeScript, RubyOnRails(APIモード), Docker, AWS RDS(MySQL),AWS ECR,AWS
 ### 🚶2021年の開発物
 ① [ポートフォリオサイト(公開中)](https://www.takumaportfolios.net/)  
 【 使用技術 】   
-RubyRails,Heroku  
+RubyOnRails,Heroku  
 【 開発動機 】   
 私が今まで活動してきたことや開発してきたものをサイトにまとめて発信したいと考え、
 開発しました。
