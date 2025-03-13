@@ -10,5 +10,5 @@
 - [もりおか育ナビ](https://apps.apple.com/jp/app/%E3%82%82%E3%82%8A%E3%81%8A%E3%81%8B%E8%82%B2%E3%83%8A%E3%83%93/id6739974449)
 - [Roll App](https://apps.apple.com/jp/app/%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97/id6505002591)
 
-📝 My Article
+✏️ My Article
 - [個人でデータ基盤を作ってみたい](https://zenn.dev/taku0012/articles/09770b79c500f5)
